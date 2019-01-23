@@ -9,7 +9,8 @@ $ npm i -g @akiralaine/resync
 
 ### Usage
 ```
-$ resync <filepath> <delay>
+$ cd /path/to/subtitle
+$ resync <filename> <delay>
 ```
 
 Example:
